@@ -611,7 +611,7 @@ label {
 .main-menu ul li a::after {
     content: "+";
     margin-left: 10px;
-    color: #4e7c1b;
+    color: #6ca427;
     display: none;
 }
 
@@ -1986,7 +1986,7 @@ label {
 }
 
 .about-title h5 {
-    color: #249db8;
+    color: #6ca427;
     font-size: 18px;
     margin-bottom: 10px;
 }
@@ -2250,7 +2250,7 @@ label {
 }
 
 .s-about-content .txt-clr {
-    color: #249db8;
+    color: #6ca427;
     font-size: 18px;
     line-height: 28px;
 }
@@ -2473,7 +2473,7 @@ label {
 }
 
 .section-title h5 {
-    color: #249db8;
+    color: #6ca427;
     font-size: 18px;
     margin-bottom: 10px;
 }
@@ -3124,13 +3124,13 @@ section:hover .section-title h2::before {
 }
 
 .services-area .services-box {
-    background: #249db8;
+    background: #4e7c1b;
     padding: 50px;
     color: white;
 }
 
 .services-area .services-box:hover, .services-area .services-box.active {
-    background: #415b76;
+    background: #6ca427;
 }
 
 .services-box .services-content2 {
@@ -5949,7 +5949,7 @@ section:hover .section-title h2::before {
 
 
 .testimonial-active2 .ta-info span {
-    color: #4e7c1b;
+    color: rgb(36 157 184);
     font-size: 16px;
 }
 
@@ -7153,7 +7153,7 @@ section:hover .section-title h2::before {
 .f-contact i {
     width: 40px;
     height: 40px;
-    background: #76899c;
+    background: #ffffff47;
     line-height: 40px;
     color: #fff !important;
     text-align: center;
@@ -7343,7 +7343,7 @@ section:hover .section-title h2::before {
 }
 
 .copyright-wrap {
-    background: #2e4154;
+    background: #133a1b;
     color: #fff;
     font-size: 15px;
 }
