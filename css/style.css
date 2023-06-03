@@ -4988,11 +4988,11 @@ section:hover .section-title h2::before {
 
 .event-item:hover .event-content {
     background: #6ca427;
-    color: #96bece;
+    color: #ffffff;
 }
 
 .event-item:hover .event-content .time {
-    color: #bbeafe;
+    color: #ffffff;
 }
 
 .event-item:hover .event-content .time strong, .event-item:hover .event-content h3 a {
@@ -5084,7 +5084,7 @@ section:hover .section-title h2::before {
     right: 30px;
     top: 0;
     font-size: 90px;
-    color: #dfeeff;
+    color: #4e7c1b;
 }
 
 .event03 .event-content, .event03 .event-item {
