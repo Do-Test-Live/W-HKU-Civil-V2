@@ -870,12 +870,13 @@ label {
 
 .second-header {
     border: none;
-    padding-bottom: 15px;
+    padding-bottom: 5px;
     background: #141b22;
-    padding-top: 15px;
+    padding-top: 5px;
     color: #fff;
     position: relative;
     z-index: 1;
+    font-size: 12px;
 }
 
 .second-header::before {
@@ -883,7 +884,7 @@ label {
     height: 100%;
     position: absolute;
     width: 32%;
-    background: #4e7c1b;
+    background: #2f5900;
     top: 0;
     z-index: -1;
     left: -25px;
@@ -1100,7 +1101,7 @@ label {
 }
 
 .header-three .second-header {
-    background: #6ca427;
+    background: #2f5900;
 }
 
 .header-three .menu-area::before {
